@@ -2,12 +2,19 @@ h1 {
     color: purple ;
 }
 
+h2 {
+    color: white
+}
+
+li {
+    color: white
+}
 a {
-    color: yellow;
+    color: white;
 }
 
 body {
     background-color: black;
-    href= "vignette.wikia.nocookie.net/minions/images/7/75/Bob_Minion.jpg/revision/latest?cb=20150812131120&path-prefix=de"
+    
     
 }
