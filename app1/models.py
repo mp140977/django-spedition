@@ -17,3 +17,4 @@ class Bestellung (models.Model):
         return self.kunde.name+","+self.bestellung+"," +str(self.datum)
     class Meta:
         verbose_name_plural = "Bestellungen"
+
